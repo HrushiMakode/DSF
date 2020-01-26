@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Assignment1.cpp
-// Author      : Gaurav
+// Author      : Hrushikesh Makode
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
